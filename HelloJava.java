@@ -15,5 +15,10 @@ public class HelloJava {
 
         System.out.println("=======================");
 
+        for(int i=0 ; i < 10; i++)
+            System.out.print(i+101 + " ");
+
+        System.out.println("=======================");
+
     }
 }
