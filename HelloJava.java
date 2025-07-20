@@ -8,5 +8,9 @@ public class HelloJava {
         HelloJava obj = new HelloJava();
         System.out.println("Hola Java");
         System.out.println("Mayor: " + obj.Mayor(10,20));   
+        System.out.println("=======================");
+
+        for(int i=0 ; i < 5; i++)
+            System.out.println(i+1);
     }
 }
