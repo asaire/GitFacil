@@ -12,5 +12,8 @@ public class HelloJava {
 
         for(int i=0 ; i < 5; i++)
             System.out.println(i+1);
+
+        System.out.println("=======================");
+
     }
 }
